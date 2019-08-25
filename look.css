@@ -1,0 +1,190 @@
+/* Style sheet. A bit messy as I started adding styling in my HTML code at first,
+ /later moving to this file.
+*/
+
+.review {
+	color :#B0AEAE;
+	margin-left: 25px;
+}
+.bold {
+	font-weight: bold;
+}
+
+.red {
+	font-size: 200%;
+	font-weight: bold;
+	color: #E20909;
+}
+
+.norm {
+	font-weight: normal;
+	font-size: 105%;
+}
+
+.fade2 {
+	color :#B0AEAE;
+	margin-left: 25px;
+}
+
+.offset {
+	margin-left: 5px;
+	margin-top: 20px;
+}
+
+.dot {
+	height:45px;
+    width: 45px;
+    display: inline-block;
+    margin-right: 10px;
+    border-radius:50%;
+    margin-bottom: 10px;
+    border: none;
+    outline: none;
+    -webkit-transition-duration: 0.4s; /* Safari */
+  	transition-duration: 0.4s;
+}
+
+.dot-border {
+	font-size: 130%;
+    font-weight: bold;
+    color: #060101;
+    background-color: #ffffff;
+    border: 1px solid #060101;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 18px 36px 18px 36px;
+    margin-bottom: 10px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.num {
+	font-size: 400%;
+}
+.inline-buttons {
+	margin-bottom: 10px;
+	margin-left: 90px;
+	display: inline-block;
+}
+.button-more {
+	background-color: #ffffff;
+    border-radius: 50%;
+    border:none;
+    margin-right: auto;
+    outline: none;
+}
+
+.button-less {
+	background-color: #ffffff;
+    border-radius: 50%;
+    border:none;
+    margin-right: auto;
+    outline: none;
+}
+
+.dot-red {
+	background-color: #b32400;
+}
+
+.dot-p {
+	background-color:#7F33AB ;
+}
+
+.dot-bl {
+	background-color:#08010C ;
+}
+
+.dot-w {
+	background-color:#F6F0FA ;
+}
+
+.dot-or {
+	background-color:#DE6911 ;
+}
+
+.dot-y {
+	background-color:#EFEF3C ;
+}
+
+.dot-blue {
+	background-color:#203A91 ;
+}
+
+.dot-wb {
+	background-color:#3B4D64 ;
+}
+
+.dot-sand {
+	background-color:#E1B38B ;
+}
+
+.dot-lb {
+	background-color:#64CED9 ;
+}
+
+.dot-lime {
+	background-color:#94E95B ;
+}
+
+.dot-pink {
+	background-color:#E45BE9 ;
+}
+
+.dot-tan {
+	background-color:#D0DEA2 ;
+}
+
+.dot-green {
+	background-color:#206419 ;
+}
+
+.dot-grey {
+	background-color:#697668 ;
+}
+
+.dot-brown {
+	background-color:#49461D ;
+}
+
+.dot-skbl {
+	background-color:#AAE0F0 ;
+}
+
+.dot-lightgrey {
+	background-color:#C9CED0 ;
+}
+
+.cart {
+    font-size: 90%;
+    color: #ffffff;
+    background-color: #08010C;
+    border: 2px solid #000000;
+    border-radius: 36px;
+    padding: 20px 140px 20px 140px;
+    display: inline-block;
+    margin-bottom: 10px; 
+    margin-left: 30px;
+}
+
+.number-style {
+    font-size: 130%;
+    font-weight: bold;
+    color: #060101;
+    background-color: #ffffff;
+    border: 1px solid #060101;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 18px 36px 18px 36px;
+    margin-bottom: 10px;
+}
+.glyphicon-plus-sign {
+	font-size: 55px;
+    text-align: center;
+}
+
+.glyphicon-minus-sign {
+    font-size: 55px;
+    text-align: center;
+}
