@@ -162,10 +162,17 @@
     background-color: #08010C;
     border: 2px solid #000000;
     border-radius: 36px;
+<<<<<<< HEAD
     padding: 20px 100px 20px 100px;
     display: inline-block;
     margin-bottom: 10px; 
     margin-left: 3px;
+=======
+    padding: 20px 140px 20px 140px;
+    display: inline-block;
+    margin-bottom: 10px; 
+    margin-left: 30px;
+>>>>>>> 79fd8f990fc9186fa5851693d14252411cd6d18a
 }
 
 .number-style {
